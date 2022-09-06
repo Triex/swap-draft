@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Percent, Token, WETH } from '@uniswap/v2-sdk'
+import { ChainId, JSBI, Percent, Token, WETH } from '@uniswap/sdk'
 
 export const ROUTER_ADDRESS = '0x24f7C33ae5f77e2A9ECeed7EA858B4ca2fa1B7eC'
 
