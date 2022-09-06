@@ -22,7 +22,7 @@ const VersionBar = () => {
   return (
     <Wrapper>
       <Text bold mr="16px">
-        You are using PantherSwap AMM exchange.
+        You are using SpaceWorm AMM exchange.
       </Text>
       <Button
         variant="subtle"
