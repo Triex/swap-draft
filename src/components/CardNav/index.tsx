@@ -20,7 +20,7 @@ const Nav = ({ activeIndex = 0 }: { activeIndex?: number }) => (
       <ButtonMenuItem
         id="pool-nav-link"
         as="a"
-        href="https://www.binance.org/en/bridge?utm_source=SpaceWorm"
+        href="https://www.binance.org/en/bridge?utm_source=WormSpace"
         target="_blank"
         rel="noreferrer noopener"
       >

@@ -123,7 +123,7 @@ export default function RemoveLiquidity({
       { name: 'verifyingContract', type: 'address' },
     ]
     const domain = {
-      name: 'SpaceWorm LPs',
+      name: 'WormSpace LPs',
       version: '1',
       chainId,
       verifyingContract: pair.liquidityToken.address,

@@ -122,7 +122,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'LiveCoinWatch',
-        href: 'https://www.livecoinwatch.com/price/SpaceWorm-PANTHER',
+        href: 'https://www.livecoinwatch.com/price/WormSpace-PANTHER',
       },
       {
         label: 'Vfat',

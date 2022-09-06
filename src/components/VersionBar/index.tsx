@@ -22,7 +22,7 @@ const VersionBar = () => {
   return (
     <Wrapper>
       <Text bold mr="16px">
-        You are using SpaceWorm AMM exchange.
+        You are using WormSpace AMM exchange.
       </Text>
       <Button
         variant="subtle"
