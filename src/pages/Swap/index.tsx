@@ -1,4 +1,4 @@
-import { CurrencyAmount, JSBI, Token, Trade } from '@uniswap-libs/sdk'
+import { CurrencyAmount, JSBI, Token, Trade } from '@uniswap/v2-sdk'
 import React, { useCallback, useContext, useEffect, useMemo, useState } from 'react'
 import { ArrowDown } from 'react-feather'
 import { CardBody, ArrowDownIcon, Button, IconButton, Text } from '@pantherswap-libs/uikit'

@@ -1,6 +1,6 @@
 import { BigNumber } from '@ethersproject/bignumber'
 import { AddressZero } from '@ethersproject/constants'
-import { TokenAmount, Token, ChainId, Percent, JSBI } from '@uniswap-libs/sdk'
+import { TokenAmount, Token, ChainId, Percent, JSBI } from '@uniswap/v2-sdk'
 
 import {
   getBscScanLink,

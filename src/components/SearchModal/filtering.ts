@@ -1,4 +1,4 @@
-import { Token } from '@uniswap-libs/sdk'
+import { Token } from '@uniswap/v2-sdk'
 import { isAddress } from '../../utils'
 
 export function filterTokens(tokens: Token[], search: string): Token[] {

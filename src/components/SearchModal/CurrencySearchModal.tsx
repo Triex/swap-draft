@@ -1,4 +1,4 @@
-import { Currency } from '@uniswap-libs/sdk'
+import { Currency } from '@uniswap/v2-sdk'
 import React, { useCallback, useEffect, useState } from 'react'
 import useLast from '../../hooks/useLast'
 import { useSelectedListUrl } from '../../state/lists/hooks'
